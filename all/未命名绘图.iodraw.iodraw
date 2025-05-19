@@ -256,7 +256,7 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-111" value="yes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-1660" y="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="H23ZqQxKs4p0hSwaMe6y-112" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-112" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;清空UI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1510" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-114" value="no&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
