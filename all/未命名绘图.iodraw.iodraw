@@ -16,6 +16,9 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-1" target="H23ZqQxKs4p0hSwaMe6y-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-1" target="H23ZqQxKs4p0hSwaMe6y-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-1" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;游戏启动&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="120" width="120" height="60" as="geometry" />
         </mxCell>
