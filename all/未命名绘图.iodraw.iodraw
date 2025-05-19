@@ -148,10 +148,15 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-61" target="H23ZqQxKs4p0hSwaMe6y-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1210" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-61" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;武器操作（射击、换弹、瞄准）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H23ZqQxKs4p0hSwaMe6y-63" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-63" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;按下/释放Mouse1瞄准&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1130" y="524" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
