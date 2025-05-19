@@ -175,11 +175,14 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-72" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;R键换弹&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1460" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-74" target="H23ZqQxKs4p0hSwaMe6y-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-74" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;子弹碰撞&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1121" y="354" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-77" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1121" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="1110" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
