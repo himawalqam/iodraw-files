@@ -187,7 +187,7 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-77" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;检查碰撞物体Tag&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H23ZqQxKs4p0hSwaMe6y-79" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-79" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;不销毁Bullet&lt;br&gt;依赖LifeTime&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
