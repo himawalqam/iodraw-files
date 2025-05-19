@@ -229,8 +229,14 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-97" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;销毁物品&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="790" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-99" target="H23ZqQxKs4p0hSwaMe6y-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-99" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;UI更新&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-101" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;获取 activeWeapon&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
