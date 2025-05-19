@@ -196,6 +196,9 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-81" target="H23ZqQxKs4p0hSwaMe6y-84">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-81" target="H23ZqQxKs4p0hSwaMe6y-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-81" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;投掷手榴弹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="354" width="120" height="60" as="geometry" />
         </mxCell>
@@ -208,7 +211,12 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-90" value="&lt;div style=&quot;background-color: transparent; font-family: sans-serif;&quot;&gt;增加forceMultiplier（受forceMultiplierLimit限制）&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="1480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H23ZqQxKs4p0hSwaMe6y-92" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1790" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-92" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;玩家释放 G 键&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1730" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
