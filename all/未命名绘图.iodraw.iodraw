@@ -199,16 +199,14 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-81" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;投掷手榴弹&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1500" y="354" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H23ZqQxKs4p0hSwaMe6y-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-84">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1540" y="680" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="H23ZqQxKs4p0hSwaMe6y-84" target="H23ZqQxKs4p0hSwaMe6y-90">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-84" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;玩家按住G键&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H23ZqQxKs4p0hSwaMe6y-89" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1470" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-90" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
