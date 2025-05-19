@@ -238,6 +238,12 @@
         <mxCell id="H23ZqQxKs4p0hSwaMe6y-101" value="&lt;div style=&quot;font-size: medium; text-align: start; background-color: transparent; font-family: sans-serif;&quot;&gt;获取 activeWeapon&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1680" y="520" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-103" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="H23ZqQxKs4p0hSwaMe6y-104" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1680" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
